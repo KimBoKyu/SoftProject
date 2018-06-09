@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/471d79cff41ff44653226c24ebd573e5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/0e2648e83bba9f6e7fd4cddf6bee1736/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/bd574930dbb5c6e78a8642e1296a8f9f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2de49c3b5296cb8661be8a390208af31/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0e53afe31474a7235bed1d3cae08d7fd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e27f15ca5bbf11ce3d6f705b56e3b1c8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd4a930b37abee1cd7a12eab10070ab5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5a845cf973be78b047b221b798bb8fe6/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:7:22-72
+application
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/471d79cff41ff44653226c24ebd573e5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/471d79cff41ff44653226c24ebd573e5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/0e2648e83bba9f6e7fd4cddf6bee1736/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/0e2648e83bba9f6e7fd4cddf6bee1736/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/bd574930dbb5c6e78a8642e1296a8f9f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/bd574930dbb5c6e78a8642e1296a8f9f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2de49c3b5296cb8661be8a390208af31/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2de49c3b5296cb8661be8a390208af31/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0e53afe31474a7235bed1d3cae08d7fd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0e53afe31474a7235bed1d3cae08d7fd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e27f15ca5bbf11ce3d6f705b56e3b1c8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e27f15ca5bbf11ce3d6f705b56e3b1c8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd4a930b37abee1cd7a12eab10070ab5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd4a930b37abee1cd7a12eab10070ab5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5a845cf973be78b047b221b798bb8fe6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5a845cf973be78b047b221b798bb8fe6/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:14:9-59
+activity#application.mobile.healthday.Login
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:15:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:18:27-74
+activity#application.mobile.healthday.UserMain
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:21:19-43
+activity#application.mobile.healthday.TrainerMain
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:22:9-49
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:22:19-46
+activity#application.mobile.healthday.UserInfo
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:23:9-45
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:23:19-43
+activity#application.mobile.healthday.Chat1
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:24:9-42
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:24:19-40
+activity#application.mobile.healthday.TrainerManage
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:25:19-48
+activity#application.mobile.healthday.UserCalendar
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:26:19-47
+activity#application.mobile.healthday.UserReserve
+ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:27:9-48
+	android:name
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml:27:19-46
+uses-sdk
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/471d79cff41ff44653226c24ebd573e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/471d79cff41ff44653226c24ebd573e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/0e2648e83bba9f6e7fd4cddf6bee1736/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/0e2648e83bba9f6e7fd4cddf6bee1736/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/bd574930dbb5c6e78a8642e1296a8f9f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/bd574930dbb5c6e78a8642e1296a8f9f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2de49c3b5296cb8661be8a390208af31/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2de49c3b5296cb8661be8a390208af31/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0e53afe31474a7235bed1d3cae08d7fd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0e53afe31474a7235bed1d3cae08d7fd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e27f15ca5bbf11ce3d6f705b56e3b1c8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e27f15ca5bbf11ce3d6f705b56e3b1c8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd4a930b37abee1cd7a12eab10070ab5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd4a930b37abee1cd7a12eab10070ab5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5a845cf973be78b047b221b798bb8fe6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5a845cf973be78b047b221b798bb8fe6/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/KimBoKyu/AndroidStudioProjects/HealthDay/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/471d79cff41ff44653226c24ebd573e5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/471d79cff41ff44653226c24ebd573e5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/0e2648e83bba9f6e7fd4cddf6bee1736/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/0e2648e83bba9f6e7fd4cddf6bee1736/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/bd574930dbb5c6e78a8642e1296a8f9f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/bd574930dbb5c6e78a8642e1296a8f9f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2de49c3b5296cb8661be8a390208af31/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/2de49c3b5296cb8661be8a390208af31/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0e53afe31474a7235bed1d3cae08d7fd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0e53afe31474a7235bed1d3cae08d7fd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e27f15ca5bbf11ce3d6f705b56e3b1c8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e27f15ca5bbf11ce3d6f705b56e3b1c8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd4a930b37abee1cd7a12eab10070ab5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/bd4a930b37abee1cd7a12eab10070ab5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5a845cf973be78b047b221b798bb8fe6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/5a845cf973be78b047b221b798bb8fe6/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/KimBoKyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/c6245c60dd126d9c4a4351a430bb55be/AndroidManifest.xml:26:9-47
